@@ -1,0 +1,127 @@
+[
+    {
+        "artist": "beatles",
+        "title": "Please Please Me",
+        "date": "1963-03-22"
+    },
+    {
+        "artist": "beatles",
+        "title": "Let It Be",
+        "date": "1970-05-08"
+    },
+    {
+        "artist": "pink floyd",
+        "title": "The Piper at the Gates of Dawn",
+        "date": "1967-08-04"
+    },
+    {
+        "artist": "pink floyd",
+        "title": "The Wall",
+        "date": "1979-11-30"
+    },
+    {
+        "artist": "led zeppelin",
+        "title": "Led Zeppelin IV",
+        "date": "1971-11-08"
+    },
+    {
+        "artist": "the rolling stones",
+        "title": "Sticky Fingers",
+        "date": "1971-04-23"
+    },
+    {
+        "artist": "david bowie",
+        "title": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
+        "date": "1972-06-16"
+    },
+    {
+        "artist": "black sabbath",
+        "title": "Paranoid",
+        "date": "1970-09-18"
+    },
+    {
+        "artist": "queen",
+        "title": "A Night at the Opera",
+        "date": "1975-11-21"
+    },
+    {
+        "artist": "fleetwood mac",
+        "title": "Rumours",
+        "date": "1977-02-04"
+    },
+    {
+        "artist": "eagles",
+        "title": "Hotel California",
+        "date": "1976-12-08"
+    },
+    {
+        "artist": "ac/dc",
+        "title": "Back in Black",
+        "date": "1980-07-25"
+    },
+    {
+        "artist": "u2",
+        "title": "The Joshua Tree",
+        "date": "1987-03-09"
+    },
+    {
+        "artist": "guns n' roses",
+        "title": "Appetite for Destruction",
+        "date": "1987-07-21"
+    },
+    {
+        "artist": "metallica",
+        "title": "Metallica",
+        "date": "1991-08-12"
+    },
+    {
+        "artist": "nirvana",
+        "title": "Nevermind",
+        "date": "1991-09-24"
+    },
+    {
+        "artist": "pearl jam",
+        "title": "Ten",
+        "date": "1991-08-27"
+    },
+    {
+        "artist": "radiohead",
+        "title": "OK Computer",
+        "date": "1997-05-21"
+    },
+    {
+        "artist": "oasis",
+        "title": "(What's the Story) Morning Glory?",
+        "date": "1995-10-02"
+    },
+    {
+        "artist": "red hot chili peppers",
+        "title": "Californication",
+        "date": "1999-06-08"
+    },
+    {
+        "artist": "daft punk",
+        "title": "Discovery",
+        "date": "2001-03-12"
+    },
+    {
+        "artist": "the strokes",
+        "title": "Is This It",
+        "date": "2001-07-30"
+    },
+    {
+        "artist": "amy winehouse",
+        "title": "Back to Black",
+        "date": "2006-10-27"
+    },
+    {
+        "artist": "arctic monkeys",
+        "title": "AM",
+        "date": "2013-09-09"
+    },
+    {
+        "artist": "kendrick lamar",
+        "title": "To Pimp a Butterfly",
+        "date": "2015-03-15"
+    }
+]
