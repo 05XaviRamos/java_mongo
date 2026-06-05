@@ -5,7 +5,7 @@ import com.mongodb.client.MongoClients;
 import com.mongodb.client.MongoDatabase;
 
 public class ConnectionManager {
-    private static final String URI = "mongodb+srv://05xramos_db_user:contrasenya@cluster0.bdvlzsm.mongodb.net/?appName=Cluster0";
+    private static final String URI = "";
 
     public static MongoDatabase getConnection() {
 
